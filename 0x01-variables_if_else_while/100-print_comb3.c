@@ -19,7 +19,7 @@ int main(void)
 	if (v == '8' && u == '9')
 	{
 	putchar(',');
-       	putchar(' ');
+	putchar(' ');
 	continue;
 	}
 	}
