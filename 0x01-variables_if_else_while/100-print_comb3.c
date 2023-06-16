@@ -16,9 +16,9 @@ int main(void)
 	{
 	putchar(v);
 	putchar(u);
+	if (v == '8' && u == '9')
 	putchar(',');
 	putchar(' ');
-	if (v == '8' && u == '9')
 	continue;
 	}
 	}
