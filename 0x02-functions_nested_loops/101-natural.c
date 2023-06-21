@@ -13,7 +13,7 @@ int main(void)
 	{
 	z += a;
 	}
-	a++
+	a++;
 	}
 	printf("%d\n", z);
 	return (0);
