@@ -2,7 +2,7 @@
 /**
  * main - prints the sum of even fibonacci numbers
  * less than 4000000
- * Return: void
+ * Return: 0 (success)
  */
 int main(void)
 {
@@ -16,5 +16,7 @@ int main(void)
 	sum += b;
 	a = b - a;
 	++i;
+	}
 	printf("%ld\n", sum);
 	return (0);
+}
