@@ -2,7 +2,7 @@
 /**
 * int_index - return index place if comparison = true, else -1
 * @array: array
-* @size: size 
+* @size: size
 * @cmp: pointer to function of one of the 3 in main
 * Return: 0
 */
